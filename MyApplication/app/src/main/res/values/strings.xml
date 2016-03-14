@@ -1,0 +1,96 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_settings">Settings</string>
+    <string name="radiodeg1">Celsius</string>
+    <string name="radioDeg">Fahrenheit</string>
+    <string name="deg_id">Degree</string>
+    <string name="city_id">City</string>
+    <string name="street_id">Street</string>
+    <string name="weather_heading">Forecast Search</string>
+    <string name="abt">About</string>
+    <string name="pwd">Powered By:</string>
+    <string name="forecast_img">image</string>
+    <string name="reset">Reset</string>
+    <string name="submit">Search</string>
+    <string name="state_select">Select a state</string>
+    <string name="state_id">State</string>
+    <string-array name="state_arrays">
+        <item>Select a state</item>
+        <item>AL</item>
+        <item>AK</item>
+        <item>AZ</item>
+        <item>AR</item>
+        <item>CA</item>
+        <item>CO</item>
+        <item>CT</item>
+        <item>DE</item>
+        <item>DC</item>
+        <item>FL</item>
+        <item>GA</item>
+        <item>HI</item>
+        <item>ID</item>
+        <item>IL</item>
+        <item>IN</item>
+        <item>IA</item>
+        <item>KS</item>
+        <item>KY</item>
+        <item>LA</item>
+        <item>ME</item>
+        <item>MD</item>
+        <item>MA</item>
+        <item>MI</item>
+        <item>MN</item>
+        <item>MS</item>
+        <item>MO</item>
+        <item>MT</item>
+        <item>NE</item>
+        <item>NV</item>
+        <item>NH</item>
+        <item>NJ</item>
+        <item>NM</item>
+        <item>NY</item>
+        <item>NC</item>
+        <item>ND</item>
+        <item>OH</item>
+        <item>OK</item>
+        <item>OR</item>
+        <item>PA</item>
+        <item>RI</item>
+        <item>SC</item>
+        <item>SD</item>
+        <item>TN</item>
+        <item>TX</item>
+        <item>UT</item>
+        <item>VT</item>
+        <item>VA</item>
+        <item>WA</item>
+        <item>WV</item>
+        <item>WI</item>
+        <item>WY</item>
+    </string-array>
+    <string name="title_activity_about">About</string>
+    <string name="sname">Name: Sanjay Thimmarayappa</string>
+    <string name="sid">Student ID: 9899834873</string>
+    <string name="title_activity_disp">disp</string>
+    <string name="mdetails">More Details</string>
+    <string name="vmap">View Map</string>
+    <string name="fb">Facebook</string>
+    <string name="currentimage">image</string>
+    <string name="precip">Precipitation</string>
+    <string name="crain">Chance of Rain</string>
+    <string name="wspeed">Wind Speed</string>
+    <string name="spoint">Dew Point</string>
+    <string name="humid">Humidity</string>
+    <string name="vis">Visibility</string>
+    <string name="srise">Sun Rise</string>
+    <string name="sset">Sun Set</string>
+    <string name="aeris_client_id">rgYYgdJyegGkHY8AnOn3I</string>
+    <string name="aeris_client_secret">2C5ohB0rISrJIADLnJLKxwDbe4bma3HhMbebfIvc</string>
+    <string name="title_activity_map">map</string>
+    <string name="title_activity_details">DetailsActivity</string>
+    <string name="facebook_app_id">204303429905287</string>
+    <string name="sum241">Summary</string>
+    <string name="AerisId">rgYYgdJyegGkHY8AnOn3I</string>
+    <string name="AerisKey">2C5ohB0rISrJIADLnJLKxwDbe4bma3HhMbebfIvc</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
